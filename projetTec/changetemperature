@@ -1,0 +1,12 @@
+{
+    "script" : {
+      "source": "if(ctx._source.temperatureInside>ctx._source.temperatureOutside){ctx._source.temperatureInside-=1;}",
+      "lang": "painless"  
+    },
+    "query": {
+        "term" : {
+            "heating.keyword": "off"
+        }
+    }
+}
+
