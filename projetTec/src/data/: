@@ -1,0 +1,418 @@
+Script started on 2022-03-07 17:36:37+01:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="128" LINES="24"]
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+(standard_in) 1: syntax error
+res
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+(standard_in) 1: syntax error
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+3
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+genereData.sh: line 28: $',\n      lang: painless  \n    },\n    query: {\n        term : {\n            date.keyword: \n        }\n    }\n}\'\n': command not found
+={ script : { source: ctx._source.7.turnover+=50
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+={ script : { source: ctx._source.7.turnover+=50 ;, lang: painless }, query: { term : { date.keyword: } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+={ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+\'{ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }\'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-07-22
+'{ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }\'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 3: +%m-%d-%y: command not found
+'{ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 4: date+%I: command not found
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+date: extra operand ‘%I’
+Try 'date --help' for more information.
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+date: extra operand ‘%k’
+Try 'date --help' for more information.
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+date: extra operand ‘%k’
+Try 'date --help' for more information.
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+date: extra operand ‘%k’
+Try 'date --help' for more information.
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ 
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+res
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.7.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22-17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ [K]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ [K]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ [K]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ [K]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ [K]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ [K]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 4: date+%k: command not found
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 4: date+%k: command not found
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+date: extra operand ‘%k’
+Try 'date --help' for more information.
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+date: extra operand ‘%H’
+Try 'date --help' for more information.
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22-17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+03-17
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+-17
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": -17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+17
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+17
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+*17
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ *bash genereData.sh
+coucou
+17
+'{ "script" : { "source": "ctx._source..turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": 17 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.17.turnover+=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.17.temperature=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.17.temperature=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+curl -XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+curl -XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh[4Ptimeout --helpbash genereData.sh
+coucou
+curl -XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+-XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50 ";, "lang": "painless" }, "query": { "term" : { "date.keyword": } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+-XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+-XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 22: -XPOST: command not found
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 22: -XPOST: command not found
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+curl: option -d: requires parameter
+curl: try 'curl --help' or 'curl --manual' for more information
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.17.temperature=50";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+curl: option -d: requires parameter
+curl: try 'curl --help' or 'curl --manual' for more information
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.17.temperature=50";, "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.17.temperature=50;", "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+curl -XPOST http://localhost:9200/shopdailydata/_update_by_query -H Content-Type: application/json -d '{ "script" : { "source": "ctx._source.17.temperature=50;", "lang": "painless" }, "query": { "term" : { "date.keyword": 03-07-22 } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+curl: option -d: requires parameter
+curl: try 'curl --help' or 'curl --manual' for more information
+genereData.sh: line 31: $'\'{\n    "script" : {\n      "source": "ctx._source.17.temperature=50;",\n      "lang": "painless"  \n    },\n    "query": {\n        "term" : {\n            "date.keyword": 03-07-22\n        }\n    }\n}\'\n': command not found
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+curl: option -d: requires parameter
+curl: try 'curl --help' or 'curl --manual' for more information
+genereData.sh: line 31: $'\'{\n    "script" : {\n      "source": "ctx._source.18.temperature=50;",\n      "lang": "painless"  \n    },\n    "query": {\n        "term" : {\n            "date.keyword": 03-07-22\n        }\n    }\n}\'\n': command not found
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 31: curl -XPOST "http://localhost:9200/shopdailydata/_update_by_query" -H 'Content-Type: application/json' -d 
+  '{
+    "script" : {
+      "source": "ctx._source.18.temperature=50;",
+      "lang": "painless"  
+    },
+    "query": {
+        "term" : {
+            "date.keyword": 03-07-22
+        }
+    }
+}'
+: No such file or directory
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 31: curl -XPOST "http://localhost:9200/shopdailydata/_update_by_query" -H 'Content-Type: application/json' -d 
+  '{
+    "script" : {
+      "source": "ctx._source.18.temperature=50;",
+      "lang": "painless"  
+    },
+    "query": {
+        "term" : {
+            "date.keyword": "03-07-22"
+        }
+    }
+}'
+: No such file or directory
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 31: curl -XPOST "http://localhost:9200/shopdailydata/_update_by_query" -H 'Content-Type: application/json' -d 
+  '{
+    "script" : {
+      "source": "ctx._source.18.temperature=50;",
+      "lang": "painless"  
+    },
+    "query": {
+        "term" : {
+            "date.keyword": "03-07-22"
+        }
+    }
+}'
+: No such file or directory
+genereData.sh: line 20: res: command not found
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 31: -XPOST "http://localhost:9200/shopdailydata/_update_by_query" -H 'Content-Type: application/json' -d 
+  '{
+    "script" : {
+      "source": "ctx._source.18.temperature=50;",
+      "lang": "painless"  
+    },
+    "query": {
+        "term" : {
+            "date.keyword": "03-07-22"
+        }
+    }
+}'
+: No such file or directory
+curl: try 'curl --help' or 'curl --manual' for more information
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 29: $'\'{\n    "script" : {\n      "source": "ctx._source.18.temperature=50;",\n      "lang": "painless"  \n    },\n    "query": {\n        "term" : {\n            "date.keyword": "03-07-22"\n        }\n    }\n}\'\n': command not found
+curl: option -d: requires parameter
+curl: try 'curl --help' or 'curl --manual' for more information
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 29: $'\'{\n    "script" : {\n      "source": "ctx._source.18.temperature=50;",\n      "lang": "painless"  \n    },\n    "query": {\n        "term" : {\n            "date.keyword": "03-07-22"\n        }\n    }\n}\'\n': command not found
+genereData.sh: line 18: syntax error near unexpected token `curl'
+genereData.sh: line 18: `shell_exec(curl -XPOST "http://localhost:9200/shopdailydata/_update_by_query" -H 'Content-Type: application/json' -d $res)'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 29: $'\'{\n    "script" : {\n      "source": "ctx._source.18.temperature=50;",\n      "lang": "painless"  \n    },\n    "query": {\n        "term" : {\n            "date.keyword": "03-07-22"\n        }\n    }\n}\'\n': command not found
+
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.18.temperature=50;", "lang": "painless" }, "query": { "term" : { "date.keyword": "03-07-22" } } }'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+'{ "script" : { "source": "ctx._source.18.temperature=50;", "lang": "painless" }, "query": { "term" : { "date.keyword": "03-07-22" } } }'
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{ "script" : { "source": "ctx._source.18.temperature=50;", "lang": "painless" }, "query": { "term" : { "date.keyword": "03-07-22" } } }
+{"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"}],"type":"json_parse_exception","reason":"Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.ByteBufferStreamInput); line: 1, column: 2]"},"status":400}curl: (6) Could not resolve host: "script"
+curl: (3) URL using bad/illegal format or missing URL
+curl: (3) unmatched brace in URL position 1:
+{
+ ^
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+genereData.sh: line 16: syntax error near unexpected token `)'
+genereData.sh: line 16: `")> file.txt'
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"took":154,"timed_out":false,"total":1,"updated":1,"deleted":0,"batches":1,"version_conflicts":0,"noops":0,"retries":{"bulk":0,"search":0},"throttled_millis":0,"requests_per_second":-1.0,"throttled_until_millis":0,"failures":[]}]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+{"took":89,"timed_out":false,"total":1,"updated":1,"deleted":0,"batches":1,"version_conflicts":0,"noops":0,"retries":{"bulk":0,"search":0},"throttled_millis":0,"requests_per_second":-1.0,"throttled_until_millis":0,"failures":[]}]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh
+coucou
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   2026   1637 --:--:-- --:--:-- --:--:--  3663
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1877   1516 --:--:-- --:--:-- --:--:--  3393
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1817   1468 --:--:-- --:--:-- --:--:--  3285
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1734   1401 --:--:-- --:--:-- --:--:--  3136
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1789   1445 --:--:-- --:--:-- --:--:--  3234
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2651   2151 --:--:-- --:--:-- --:--:--  4747100   413  100   228  100   185   2651   2151 --:--:-- --:--:-- --:--:--  4747
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2213   1796 --:--:-- --:--:-- --:--:--  4009
+^C
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2478   2010 --:--:-- --:--:-- --:--:--  4489
+^C
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ ^C
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1991   1608 --:--:-- --:--:-- --:--:--  3600
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1924   1554 --:--:-- --:--:-- --:--:--  3478
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   2180   1761 --:--:-- --:--:-- --:--:--  3942
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2235   1813 --:--:-- --:--:-- --:--:--  4049
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2400   1947 --:--:-- --:--:-- --:--:--  4347
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2451   1989 --:--:-- --:--:-- --:--:--  4393100   413  100   228  100   185   2451   1989 --:--:-- --:--:-- --:--:--  4393
+bash genereData.sh^C
+]0;tancrezvictor@tancrezvictor-GL63-8RE: /var/www/html/projetTec/tec/data[01;32mtancrezvictor@tancrezvictor-GL63-8RE[00m:[01;34m/var/www/html/projetTec/tec/data[00m$ bash genereData.sh[4Ptimeout --helpbash genereData.sh
+coucou
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2850   2312 --:--:-- --:--:-- --:--:--  5162
+rm: cannot remove 'file.txt': No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2280   1850 --:--:-- --:--:-- --:--:--  4130
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2620   2126 --:--:-- --:--:-- --:--:--  4747
+rm: cannot remove 'file.txt': No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   413  100   228  100   185   2651   2151 --:--:-- --:--:-- --:--:--  4802
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   2008   1622 --:--:-- --:--:-- --:--:--  3600100   414  100   229  100   185   2008   1622 --:--:-- --:--:-- --:--:--  3600
+rm: cannot remove 'file.txt': No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   1846   1491 --:--:-- --:--:-- --:--:--  3338
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   414  100   229  100   185   2180   1761 --:--:-- --:--:-- --:--:--  3942
+rm: cannot remove 'file.txt': No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     

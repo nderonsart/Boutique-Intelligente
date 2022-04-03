@@ -1,0 +1,84 @@
+
+    {  "date" : "04-03-22",
+    
+    "7":{
+        "temperature": 10,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0
+        },
+    "8":{
+        "temperature": 11,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "9":{
+        "temperature": 13,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" :0},
+    "10":{
+        "temperature": 14,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "11":{
+        "temperature": 14,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "12":{
+        "temperature": 13,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "13":{
+        "temperature": 15,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "14":{
+        "temperature": 16,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "15":{
+        "temperature": 16,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "16":{
+        "temperature": 15,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "17":{
+        "temperature": 14,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "18":{
+        "temperature": 12,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "19":{
+        "temperature": 11,
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0}
+
+    }

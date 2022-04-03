@@ -1,0 +1,99 @@
+{  "date" : "03-08-22",
+    
+    "7":{
+        "temperature": 7,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0
+        },
+    "8":{
+        "temperature": 8,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "9":{
+        "temperature": 11,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" :0},
+    "10":{
+        "temperature": 14,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "11":{
+        "temperature": 14,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "12":{
+        "temperature": 15,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "13":{
+        "temperature": 16,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "14":{
+        "temperature": 17,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "15":{
+        "temperature": 15,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "16":{
+        "temperature": 16,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "17":{
+        "temperature": 14,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "18":{
+        "temperature": 12,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0},
+    "19":{
+        "temperature": 10,
+        "Condition": "",
+        "numberCustomers": 0,
+        "numberMen": 0,
+        "numberWomen": 0,
+        "turnover" : 0}
+
+    }
+
+         
+     
