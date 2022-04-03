@@ -1,0 +1,36 @@
+
+/* Boutons */
+
+button {
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    
+    padding:0.3em 1.2em;
+    border-radius:5em;
+    border-color: black;
+    box-sizing:border-box;
+    
+    text-decoration:none;
+    font-family: sans-serif;
+    font-size:xx-large;
+
+    color:#FFFFFF;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+#b1 {
+    background-color:#44abe7;
+}
+#b1:hover{
+    background-color:#0069a7;
+}
+
+#b2 {
+    background-color: rgb(0, 228, 0);
+    margin-bottom: 2%;
+}
+#b2:hover{
+    background-color:green;
+}

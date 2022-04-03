@@ -1,0 +1,128 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+/* Alignement et bg */
+
+html {
+    border:  5mm ridge rgb(212, 212, 212);
+    background-image: url("../Img_finales/rideaux_bg2.png");
+    background-position: top;
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-color: rgb(95, 109, 122);
+}
+
+body {
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+
+footer {
+    text-align: left;
+    margin-top: 2%;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 100px 0rem;
+    border-spacing: 0px 0rem;
+    border: solid 7px;
+}
+
+td, tr {
+    color:white;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: outset;
+    border-width: 7px;
+    border-color: coral; 
+    border-left: none;
+    border-right: none;
+}
+
+
+audio { 
+    width: 550px; 
+    display: block; 
+    margin:10px; 
+}
+
+div {
+    height: 50%;
+    overflow:auto;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2.5%;
+}
+
+
+/* Texte */
+
+#titre {
+    font-size: 53px;
+    color:white;
+    -webkit-text-stroke: 2px black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-bottom: 1%;
+}
+
+
+p {
+    text-align: center;
+}
+
+/* Boutons */
+
+input, button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    box-sizing:border-box;
+    font-family: sans-serif;
+    font-size: larger;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+button {
+    padding:0.3em 1.2em;
+    border-radius:5em;
+    text-decoration:none;
+    font-family: sans-serif;
+    font-size:xx-large;
+    color:#FFFFFF;
+}
+
+#b1file {
+    background-color:#44abe7;
+}
+#b1file:hover{
+    background-color:#0069a7;
+}
+
+#b2 {
+    background-color: rgb(0, 228, 0);
+}
+#b2:hover{
+    background-color:green;
+}
+
+#submit {
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 4%;
+    background-color:#ff0000;
+}
+#submit:hover{
+    background-color:#770000;
+}

@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Accueil, 1ere page">
+    <meta name="author" content="Liam Mayeux, Nicolas Deronsart, Victor Tancrez">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="shortcut icon" type="image/x-icon" href="../icon/img1.ico" />
+    <script type="text/javascript" src="../script.js"></script> 
+    <title>Nicotoriam-Ajoute-Commande</title>
+
+</head>
+
+
+
+<body>
+
+    <div>
+        <p id="p1">Ajouter une commande</p>
+    </div>
+    <body>
+    <form action="<?php echo $_SERVER["PHP_SELF"] ?>" method="post">
+    <fieldset>
+    <legend><b>Saisissez vos coordonnées </b></legend>
+    <table border="0" >
+    <tr>
+    <td>Civilité : </td>
+    <td><input type="text" name="civilité" /></td>
+    <tr>
+    <td>Nom : </td>
+    <td><input type="text" name="nom" /></td>
+    </tr>
+    <tr>
+    <td>Prénom : </td>
+    <td> <input type="text" name="prenom" /></td>
+    </tr>
+    <tr>
+    <td>Adresse mail: </td>
+    <td><input type="text" name="mail" /></td>
+    </tr>
+    <tr>
+    <td>Num :</td>
+    <td><input type="text" name="num" /></td>
+    </tr>
+    <tr>
+    <td>article :</td>
+    <td><input type="text" name="article" /></td>
+    </tr>
+    <tr>
+    <td>quantité :</td>
+    <td><input type="text" name="quantité" /></td>
+    </tr>
+    <td>CONFIRMER</td>
+    <td><input type="submit" value="ENVOI" name="confirmation"/></td>
+       
+    
+</body>
+
+
+</html>
